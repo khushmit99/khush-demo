@@ -1,2 +1,2 @@
 # khush-demo
-This is my first repo.
+This is My first repo.
